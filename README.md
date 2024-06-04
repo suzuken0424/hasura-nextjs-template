@@ -6,4 +6,4 @@ docker compose up
 
 ### URL
 hasura console： http://localhost:8080<br>
-frontend：http://localhost
+frontend：http://localhost:80
